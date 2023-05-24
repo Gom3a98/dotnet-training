@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "hCxizFen32FkIVPvgRToDzLjBG8jBjLZZpmQePy5dP0=",
+  "Source": "OnlineStore",
+  "BasePath": "_content/OnlineStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OnlineStore\\wwwroot",
+      "Source": "OnlineStore",
+      "ContentRoot": "D:\\projects\\dotnet\\GM\\OnlineStore\\wwwroot\\",
+      "BasePath": "_content/OnlineStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\projects\\dotnet\\GM\\OnlineStore\\wwwroot\\Upload\\cover.jpg",
+      "SourceId": "OnlineStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\projects\\dotnet\\GM\\OnlineStore\\wwwroot\\",
+      "BasePath": "_content/OnlineStore",
+      "RelativePath": "Upload/cover.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Upload\\cover.jpg"
+    }
+  ]
+}
